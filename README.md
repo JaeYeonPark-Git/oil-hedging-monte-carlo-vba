@@ -59,3 +59,17 @@ Introduction to Financial Engineering (금융공학개론) Team Project
 > **결론:** 본 모델은 초기 비용 예측 가능성을 제공하고, 급격한 시장 변동 상황에서도 안정적인 수익 구조를 유지함을 확인했습니다.
 
 ## 5. 📁 리포지토리 구조 (Repository Structure)
+
+oil-hedging-monte-carlo-vba ├── /src │ └── OilHedgingModel.bas # 몬테카를로 시뮬레이션 VBA 소스 코드 │ ├── /docs │ └── Financial_Engineering_Report.pdf # 프로젝트 최종 보고서 │ ├── LICENSE # MIT License └── README.md # 프로젝트 설명서
+
+## 6. 🚀 실행 방법 (How to Run)
+
+1.  Microsoft Excel을 실행하고 `Alt` + `F11`을 눌러 VBA 편집기를 엽니다.
+2.  메뉴에서 `File` > `Import File`을 선택하고 `src/OilHedgingModel.bas` 파일을 불러옵니다.
+3.  엑셀 시트에서 `=MonteCarloSimulation2(...)` 함수를 사용하여 파라미터를 입력하면 시뮬레이션이 실행됩니다.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
