@@ -1,7 +1,7 @@
 Attribute VB_Name = "OilHedgingModel"
 ' -----------------------------------------------------------------------
 ' Project: Young & Rich Oil Hedging Model
-' Author: Jae Yeon Park (Group 12)
+' Author: Jae Yeon Park
 ' Description: Monte Carlo Simulation for Oil Price Hedging with Barrier Options
 ' Course: Introduction to Financial Engineering (2023 Fall)
 ' -----------------------------------------------------------------------
