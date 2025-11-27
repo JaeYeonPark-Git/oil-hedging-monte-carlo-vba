@@ -1,6 +1,6 @@
 # Oil Price Hedging Model with Barrier Options (VBA Monte Carlo Simulation)
 
-<img src="./assets/excel_icon.svg" width="20" height="20"> **Excel VBA**
+![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=flat&logo=microsoft&logoColor=white)
 ![Financial Engineering](https://img.shields.io/badge/Topic-Financial%20Engineering-blue)
 
 **2023 Fall Semester**
