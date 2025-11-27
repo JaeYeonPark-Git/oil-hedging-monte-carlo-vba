@@ -1,6 +1,6 @@
 # Oil Price Hedging Model with Barrier Options (VBA Monte Carlo Simulation)
 
-![VBA](https://img.shields.io/badge/VBA-217346?logo=microsoft-excel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?logo=microsoftexcel&logoColor=white)
 ![Financial Engineering](https://img.shields.io/badge/Topic-Financial%20Engineering-blue)
 
 **2023 Fall Semester**
@@ -59,9 +59,17 @@ Introduction to Financial Engineering (금융공학개론) Team Project
 > **결론:** 본 모델은 초기 비용 예측 가능성을 제공하고, 급격한 시장 변동 상황에서도 안정적인 수익 구조를 유지함을 확인했습니다.
 
 ## 5. 📁 리포지토리 구조 (Repository Structure)
-'''
-oil-hedging-monte-carlo-vba ├── /src │ └── OilHedgingModel.bas # 몬테카를로 시뮬레이션 VBA 소스 코드 │ ├── /docs │ └── Financial_Engineering_Report.pdf # 프로젝트 최종 보고서 │ ├── LICENSE # MIT License └── README.md # 프로젝트 설명서
-'''
+
+```
+
+/oil-hedging-monte-carlo-vba
+├── /src
+│   └── OilHedgingModel.bas       \# 몬테카를로 시뮬레이션 VBA 소스 코드
+│
+├── LICENSE                       \# MIT License
+└── README.md                     \# 프로젝트 설명서
+
+```
 
 ## 6. 🚀 실행 방법 (How to Run)
 
@@ -74,3 +82,4 @@ oil-hedging-monte-carlo-vba ├── /src │ └── OilHedgingModel.bas # �
 ## 📜 License
 
 This project is licensed under the MIT License.
+```
