@@ -3,8 +3,7 @@
 ![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=flat&logo=microsoftexcel&logoColor=white&cache=123)
 ![Financial Engineering](https://img.shields.io/badge/Topic-Financial%20Engineering-blue)
 
-**2023 Fall Semester**
-Introduction to Financial Engineering (금융공학개론) Team Project
+**Course Project: Introduction to Financial Engineering (UNIST, Fall 2023)**
 
 **Team:**
 * Minje You, Sangik Lee, Taekjin Kim
