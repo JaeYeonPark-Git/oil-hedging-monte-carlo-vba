@@ -62,9 +62,7 @@
 ```
 
 /oil-hedging-monte-carlo-vba
-├── /src
-│   └── OilHedgingModel.bas       \# 몬테카를로 시뮬레이션 VBA 소스 코드
-│
+├── OilHedgingModel.bas       \# 몬테카를로 시뮬레이션 VBA 소스 코드
 ├── LICENSE                       \# MIT License
 └── README.md                     \# 프로젝트 설명서
 
